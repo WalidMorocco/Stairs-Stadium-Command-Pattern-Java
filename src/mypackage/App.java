@@ -45,7 +45,7 @@ public class App {
 		remoteControl.offButtonWasPushed(2);
 		
 		// Undo last button
-		remoteControl.undoButtonWasPushed(2);
+		remoteControl.undoButtonWasPushed();
 	}
 
 }
